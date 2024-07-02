@@ -86,7 +86,7 @@ Follow the instructions below:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/hasferrr/discord-clone.git
+   git clone https://github.com/hasferrr/dazzlecord.git
    ```
 
 1. Install dependencies
